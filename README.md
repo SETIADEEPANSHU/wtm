@@ -1,2 +1,2 @@
 # wtm
-WTM repo
+WTM repo for open source
